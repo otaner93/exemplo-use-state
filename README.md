@@ -1,5 +1,6 @@
 # exemplo-use-state
 
+descompacte a pasta node-modules
 
 Para rodar:
 
