@@ -1,23 +1,12 @@
 # exemplo-use-state
 
 
-Abrindo direto o arquivo no navegador:
+Para rodar:
 
-index.html
+cd "caminho/do/arquivo"
+npm run dev
+Depois abra no navegador:
 
-Pelo terminal, dentro da pasta do projeto:
+http://127.0.0.1:5173/
 
-bash
-
-
-
-cd "/caminho do arquivo"
-python3 -m http.server 8000
-
-
-
-Depois acesse no navegador:
-
-http://localhost:8000
-
-Como o projeto usa React via CDN, precisa estar conectado à internet para carregar React, ReactDOM e Babel.
+As dependências já foram instaladas com npm install, então você só precisa usar npm run dev.
